@@ -1,0 +1,65 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header-div {
+    width: 100vw;
+    background-color: aqua;
+    align-items: center;
+    text-align: center;
+    margin: 4vh 0 4vh 0;
+}
+
+.form-div {
+    width: 70vw;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+    /* background-color: black; */
+}
+
+.form-group {
+    margin: 3vh 0;
+}
+
+.project-name {
+    margin: 2vh 0;
+}
+
+.project-description {
+    margin: 2vh 0
+}
+
+.add-skill-btn {
+    margin: 2vh 0;
+}
+
+
+.add-project-btn {
+    margin: 2vh 0;
+}
+
+.skill-input-div {
+    margin: 2vh 0;
+}
+
+
+.add-experience-btn {
+    margin: 2vh 0;
+}
+
+.experience {
+    margin: 2vh 0;
+}
+
+/* .body-section {
+    height: 100vh;
+} */
+
+.submit-btn-div{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5vh;
+    width: 15vw;
+}
